@@ -1,0 +1,6 @@
+.Thumbnails{
+    width: 500px;
+    height: 50px;
+    object-fit: cover;
+    object-position: right;
+}
