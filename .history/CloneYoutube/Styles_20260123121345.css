@@ -1,10 +1,10 @@
 .Thumbnails{
     width: 300px;
-    /* height:300px;
+    height:300px;
     object-fit: contain;
     object-position:center;
     border-width: 2px;
-    border-style:solid; */
+    border-style:solid;
 }
 
 .SearchDashbar{
@@ -19,7 +19,7 @@
 .VideoHeading{
     font-family: Roboto, Arial, sans-serif;
     color: rgb(0, 0, 0);
-    width: 280px;
+    width: 300px;
 
 }
 
@@ -36,7 +36,4 @@
 
  .Container{
     display: inline-block;
-    width: 300px;
-    margin-right: 10px;
-    vertical-align: top;
  }
