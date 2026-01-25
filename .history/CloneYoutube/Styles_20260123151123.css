@@ -18,12 +18,9 @@
 
 .VideoHeading{
     font-family: Roboto, Arial, sans-serif;
-    font: size 12px;
-    font-weight: 500;
     color: rgb(0, 0, 0);
     width: 200px;
-    line-height:22px;
-    margin-bottom: 5px;
+    /* margin-bottom: 5px; */
     margin-top:0px;
 
 }
@@ -50,13 +47,16 @@
  {
     display:inline-block;
     width:50px;
+    border-width:2px;
+    border-style:solid;
     vertical-align: top;
  }
 
  .VideoDetailsContainer{
     display: inline-block;
     width: 200px;
-    margin-left:10px;
+    border-width:2px;
+    border-style:solid;
  }
 
  .ProfilePicture{
@@ -66,8 +66,4 @@
 
  .ThumbnailsContainer{
     margin-bottom:0px;
- }
-
- .DescriptionContainer{
-    margin-top:8px;
  }

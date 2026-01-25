@@ -1,0 +1,35 @@
+.MainContainer{
+    width:500px;
+    border-width:2px;
+    border-style: solid;
+}
+.ProfilePictureContainer{
+    width:100px;
+    display:inline-block;
+    border-width:2px;
+    border-style: solid;
+    vertical-align: top;
+
+}
+
+.CatImage{
+    width:100%;
+    border-radius: 50px;
+}
+
+.ProfileDescription{
+    width:100px;
+    display:inline-block;
+    border-width:2px;
+    border-style: solid;
+     vertical-align: top;
+}
+
+.ProfileButton{
+     width:100px;
+    display:inline-block;
+    border-width:2px;
+    border-style: solid;
+     vertical-align: top;
+
+}

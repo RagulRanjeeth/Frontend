@@ -18,11 +18,8 @@
 
 .VideoHeading{
     font-family: Roboto, Arial, sans-serif;
-    font: size 12px;
-    font-weight: 500;
     color: rgb(0, 0, 0);
     width: 200px;
-    line-height:22px;
     margin-bottom: 5px;
     margin-top:0px;
 
@@ -49,25 +46,22 @@
  .ProfileImgContainer
  {
     display:inline-block;
-    width:50px;
+    width:70px;
+    border-width:2px;
+    border-style:solid;
     vertical-align: top;
  }
 
  .VideoDetailsContainer{
     display: inline-block;
     width: 200px;
-    margin-left:10px;
+    border-width:2px;
+    border-style:solid;
  }
 
  .ProfilePicture{
+    border-radius:0px;
     width:100%;
     border-radius: 50px;    
- }
-
- .ThumbnailsContainer{
-    margin-bottom:0px;
- }
-
- .DescriptionContainer{
-    margin-top:8px;
+    
  }

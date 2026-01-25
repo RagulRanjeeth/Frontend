@@ -1,0 +1,61 @@
+.MainContainer{
+    width:500px;
+    border-width:2px;
+    border-style: solid;
+}
+.ProfilePictureContainer{
+    width:100px;
+    display:inline-block;
+    vertical-align: top;
+
+}
+
+.CatImage{
+    width:66px;
+    border-radius:50px;
+    padding-left:20px;
+    padding-top:20px;
+}
+
+.ProfileDescription{
+    width:170px;
+    display:inline-block;
+    font-family: Roboto, Arial;
+    border-width:2px;
+    border-style: solid;
+    vertical-align: top;
+
+}
+
+.ProfileButton{
+     width:100px;
+    display:inline-block;
+    border-width:2px;
+    border-style: solid;
+     vertical-align: top;
+     margin-left: 150px;
+     margin-top: 50px;
+}
+
+.DescriptionName{
+    font-weight: bold;
+    margin-bottom:0px;
+}
+
+.DescriptionSecondaryName{
+    margin-top:8px;
+    margin-bottom:0px;
+
+}
+
+.DescriptionPopular{
+    margin-top:10px;
+}
+
+.Profile{
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+
+}

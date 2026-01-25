@@ -1,0 +1,10 @@
+.ProfilePictureContainer{
+    width:500px;
+    display:inline-block;
+    border-width:2px;
+    border-style: solid;
+}
+
+.CatImage{
+    width:100%;
+}
