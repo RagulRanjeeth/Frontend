@@ -20,23 +20,12 @@
 .MainContainer{
    display: grid;
    grid-template-columns: 1fr 1fr 1.01fr;
-   column-gap: 20px;
-   row-gap: 40px;
+
 }
 
 .Container{
      width: 100%;
-     
 }
-
-.Thumbnails{
-      width: 100%;
-}
-
- .ThumbnailsContainer{
-   width: 100%;
-    margin-bottom:0px;
- }
 
 .VideoHeading{
     font-family: Roboto, Arial, sans-serif;
@@ -80,5 +69,9 @@
     border-radius: 50px;    
  }
 
+ .ThumbnailsContainer{
+   width: 100%;
+    margin-bottom:0px;
+ }
 
  

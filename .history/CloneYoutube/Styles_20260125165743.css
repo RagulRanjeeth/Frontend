@@ -20,12 +20,13 @@
 .MainContainer{
    display: grid;
    grid-template-columns: 1fr 1fr 1.01fr;
-   column-gap: 20px;
-   row-gap: 40px;
+
 }
 
 .Container{
      width: 100%;
+      border-width: 2px;
+    border-style:solid;
      
 }
 
@@ -34,7 +35,7 @@
 }
 
  .ThumbnailsContainer{
-   width: 100%;
+   /* width: 100%; */
     margin-bottom:0px;
  }
 

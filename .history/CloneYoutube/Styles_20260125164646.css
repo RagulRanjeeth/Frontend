@@ -20,29 +20,14 @@
 .MainContainer{
    display: grid;
    grid-template-columns: 1fr 1fr 1.01fr;
-   column-gap: 20px;
-   row-gap: 40px;
 }
-
-.Container{
-     width: 100%;
-     
-}
-
-.Thumbnails{
-      width: 100%;
-}
-
- .ThumbnailsContainer{
-   width: 100%;
-    margin-bottom:0px;
- }
 
 .VideoHeading{
     font-family: Roboto, Arial, sans-serif;
-    font-size: 14px;
+    font: size 12px;
     font-weight: 500;
     color: rgb(0, 0, 0);
+    width: 200px;
     line-height:22px;
     margin-bottom: 5px;
     margin-top:0px;
@@ -58,6 +43,12 @@
 
  .VideoStats{
     margin-top: 4px;
+ }
+
+ .Container{
+    display: inline-block;
+    width: 300px;
+    margin-right: 10px;
  }
 
 .DescriptionContainer{
@@ -80,5 +71,8 @@
     border-radius: 50px;    
  }
 
+ .ThumbnailsContainer{
+    margin-bottom:0px;
+ }
 
  
