@@ -9,8 +9,9 @@ let findVegetables = vegetables.filter((vegetables) => vegetables.length > 5);
 console.log(findVegetables);
 
 //maps
+debugger;
 let mapping = vegetables.map((vegetables) =>{
-    return "Your fav vegetable is "+ vegetables.length;
-})
+    return "Your fav vegetable is "+ vegetables;
+});
 
 console.log(mapping);
